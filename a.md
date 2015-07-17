@@ -1,0 +1,12 @@
+sh exam.sh sg
+sh exam.sh prep_se
+sh exam.sh prep_pe
+sh exam.sh mh
+sh exam.sh indel
+sh exam.sh fs_las
+sh exam.sh fs_las_a
+sh exam.sh eval
+sh exam.sh eval_sg
+sh exam.sh vis
+sh exam.sh fs_log
+sh exam.sh fs_log_a
